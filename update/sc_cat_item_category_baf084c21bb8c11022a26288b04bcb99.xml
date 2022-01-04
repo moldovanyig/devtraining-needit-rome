@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Apple iPad 3">76f04c821bb8c11022a26288b04bcb13</sc_cat_item>
+        <sc_category display_value="Tablets">b06546f23731300054b6a3549dbe5dd8</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-03 07:42:17</sys_created_on>
+        <sys_id>baf084c21bb8c11022a26288b04bcb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablets.Apple iPad 3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_baf084c21bb8c11022a26288b04bcb99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-03 07:42:17</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
